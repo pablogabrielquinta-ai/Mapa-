@@ -1,0 +1,24 @@
+{
+  "name": "Mapa Remesas DPEC",
+  "short_name": "Mapa Remesas",
+  "description": "Mapa de remesas y rutas de lectura - DPEC Prefacturación Capital",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14181d",
+  "theme_color": "#1b2129",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
